@@ -1602,7 +1602,7 @@
     "extras": "",
     "price": 229,
     "sizes": [],
-    "image": "http://localhost:8000/img/veg%20riso%20oliva%20pasta%20pasta.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/veg%20riso%20oliva%20pasta%20pasta.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "PASTA"
