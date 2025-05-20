@@ -5,7 +5,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 49,
     "sizes": [],
-    "image": "http://localhost:8000/img/Plain%20Maggi.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/Plain%20Maggi.jpg",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -21,7 +21,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 59,
     "sizes": [],
-    "image": "http://localhost:8000/img/Butter%20Maggi.jpeg",
+    "image": "https://momostreet-backend.onrender.com/img/Butter%20Maggi.jpeg",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -37,7 +37,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 69,
     "sizes": [],
-    "image": "http://localhost:8000/img/veg%20maggi.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/veg%20maggi.jpg",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -53,7 +53,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 79,
     "sizes": [],
-    "image": "http://localhost:8000/img/paneer%20maggi.png",
+    "image": "https://momostreet-backend.onrender.com/img/paneer%20maggi.png",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -69,7 +69,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 69,
     "sizes": [],
-    "image": "http://localhost:8000/img/corn%20maggi.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/corn%20maggi.jpg",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -85,7 +85,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 79,
     "sizes": [],
-    "image": "http://localhost:8000/img/egg%20maggi.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/egg%20maggi.jpg",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -101,7 +101,7 @@
     "extras": "(Add Cheese Rs 30)",
     "price": 89,
     "sizes": [],
-    "image": "http://localhost:8000/img/chicken%20maggi.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/chicken%20maggi.jpg",
     "extraOptions": [
       {
         "name": "Add Cheese",
@@ -117,7 +117,7 @@
     "extras": "",
     "price": 49,
     "sizes": [],
-    "image": "http://localhost:8000/img/bread%20omelette.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/bread%20omelette.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
@@ -128,7 +128,7 @@
     "extras": "",
     "price": 89,
     "sizes": [],
-    "image": "http://localhost:8000/img/chicken%20nuggets%20%285pcs%29.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/chicken%20nuggets%20%285pcs%29.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
@@ -139,7 +139,7 @@
     "extras": "",
     "price": 129,
     "sizes": [],
-    "image": "http://localhost:8000/img/chicken%20spring%20roll%20%284pcs%29.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/chicken%20spring%20roll%20%284pcs%29.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
@@ -150,7 +150,7 @@
     "extras": "",
     "price": 89,
     "sizes": [],
-    "image": "http://localhost:8000/img/veg%20spring%20roll%20%285pcs%29.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/veg%20spring%20roll%20%285pcs%29.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
@@ -161,7 +161,7 @@
     "extras": "",
     "price": 109,
     "sizes": [],
-    "image": "http://localhost:8000/img/paneer%20spring%20roll%20%284pcs%29.webp",
+    "image": "https://momostreet-backend.onrender.com/img/paneer%20spring%20roll%20%284pcs%29.webp",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
@@ -172,7 +172,7 @@
     "extras": "",
     "price": 149,
     "sizes": [],
-    "image": "http://localhost:8000/img/chicken%20seekh%20kabab%20%284%20pcs%29.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/chicken%20seekh%20kabab%20%284%20pcs%29.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
@@ -183,7 +183,7 @@
     "extras": "",
     "price": 289,
     "sizes": [],
-    "image": "http://localhost:8000/img/Bucket%20%281%20Chk%20Drumstick%2B3%20Chk%20Wings%29.jpg",
+    "image": "https://momostreet-backend.onrender.com/img/Bucket%20%281%20Chk%20Drumstick%2B3%20Chk%20Wings%29.jpg",
     "extraOptions": [],
     "pizzaSubcategory": "",
     "category": "QUICK STARTERS"
