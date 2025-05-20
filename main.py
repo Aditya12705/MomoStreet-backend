@@ -20,7 +20,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.mount("/img", StaticFiles(directory=os.path.join(os.path.dirname(__file__), "..", "img")), name="img")
+app.mount("/img", StaticFiles(directory=os.path.join(os.path.dirname(__file__), "img")), name="img")
 
 DB_PATH = "orders.db"
 MENU_PATH = "menu.csv"
