@@ -1,0 +1,1918 @@
+[
+  {
+    "id": 1,
+    "name": "Plain Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 49,
+    "sizes": [],
+    "image": "http://localhost:8000/img/Plain%20Maggi.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 2,
+    "name": "Butter Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 59,
+    "sizes": [],
+    "image": "http://localhost:8000/img/Butter%20Maggi.jpeg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 3,
+    "name": "Veg Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20maggi.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 4,
+    "name": "Paneer Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20maggi.png",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 5,
+    "name": "Corn Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/corn%20maggi.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 6,
+    "name": "Egg Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20maggi.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Maggi",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20maggi.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "MAGGI"
+  },
+  {
+    "id": 8,
+    "name": "Bread Omelette",
+    "extras": "",
+    "price": 49,
+    "sizes": [],
+    "image": "http://localhost:8000/img/bread%20omelette.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Nuggets (5pcs)",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20nuggets%20%285pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 10,
+    "name": "Chicken Spring Roll (4pcs)",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20spring%20roll%20%284pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 11,
+    "name": "Veg Spring Roll (5pcs)",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20spring%20roll%20%285pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 12,
+    "name": "Paneer Spring Roll (4pcs)",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20spring%20roll%20%284pcs%29.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 13,
+    "name": "Chicken Seekh Kabab (4 pcs)",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20seekh%20kabab%20%284%20pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 14,
+    "name": "Bucket (1 Chk Drumstick+3 Chk Wings)",
+    "extras": "",
+    "price": 289,
+    "sizes": [],
+    "image": "http://localhost:8000/img/Bucket%20%281%20Chk%20Drumstick%2B3%20Chk%20Wings%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "QUICK STARTERS"
+  },
+  {
+    "id": 15,
+    "name": "Veg Manchurian (7-8 Pcs)",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20manchurian%20%287-8%20Pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "CHINESE STARTERS"
+  },
+  {
+    "id": 16,
+    "name": "Paneer Manchurian(7-8 Pcs)",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20manchurian%287-8%20Pcs%29.png",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "CHINESE STARTERS"
+  },
+  {
+    "id": 17,
+    "name": "Chicken Manchurian(7-8 Pcs)",
+    "extras": "",
+    "price": 169,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20manchurian%287-8%20Pcs%29.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "CHINESE STARTERS"
+  },
+  {
+    "id": 18,
+    "name": "Mumbai Vada Pav",
+    "extras": "",
+    "price": 50,
+    "sizes": [],
+    "image": "http://localhost:8000/img/mumbai%20vada%20pav.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "DESI HITS"
+  },
+  {
+    "id": 19,
+    "name": "Cheesy vada Pav",
+    "extras": "",
+    "price": 65,
+    "sizes": [],
+    "image": "http://localhost:8000/img/cheesy%20vada%20pav.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "DESI HITS"
+  },
+  {
+    "id": 20,
+    "name": "Spicy Bhel Poori",
+    "extras": "",
+    "price": 55,
+    "sizes": [],
+    "image": "http://localhost:8000/img/spicy%20bhel%20poori.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "DESI HITS"
+  },
+  {
+    "id": 21,
+    "name": "Butter Pav Bhaji",
+    "extras": "",
+    "price": 70,
+    "sizes": [],
+    "image": "http://localhost:8000/img/butter%20pav%20bhaji.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "DESI HITS"
+  },
+  {
+    "id": 22,
+    "name": "Hara Bhara Kebab(5 pcs)",
+    "extras": "",
+    "price": 70,
+    "sizes": [],
+    "image": "http://localhost:8000/img/hara%20bhara%20kebab%285%20pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "DESI HITS"
+  },
+  {
+    "id": 23,
+    "name": "Butter Paneer Roll",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/butter%20paneer%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 24,
+    "name": "Paneer Tikka Roll",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20tikka%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 25,
+    "name": "Khadai Paneer Roll",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/khadai%20paneer%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 26,
+    "name": "Omelette Roll",
+    "extras": "",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/omelette%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 27,
+    "name": "Butter Chicken Roll",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/butter%20chicken%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 28,
+    "name": "Chicken Tikka Roll",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20tikka%20roll.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 29,
+    "name": "Khadai Chicken Roll",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/khadai%20chicken%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 30,
+    "name": "Seekh Kebab Roll",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/seekh%20kebab%20roll.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "ROLLS"
+  },
+  {
+    "id": 31,
+    "name": "Aloo Paratha",
+    "extras": "Paratha + Curd+ Pickle",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/aloo%20paratha.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PARATHA MEAL"
+  },
+  {
+    "id": 32,
+    "name": "Gobi paratha",
+    "extras": "Paratha + Sauce + Pickle",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/gobi%20paratha.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PARATHA MEAL"
+  },
+  {
+    "id": 33,
+    "name": "Paratha (Non- Veg Combo)",
+    "extras": "2 Paratha + Boneless Chicken  Gravy",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paratha%20%28Non-%20Veg%20Combo%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PARATHA MEAL"
+  },
+  {
+    "id": 34,
+    "name": "Paratha (Veg Combo)",
+    "extras": "2 Paratha + Paneer Gravy",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paratha%20%28Veg%20Combo%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PARATHA MEAL"
+  },
+  {
+    "id": 35,
+    "name": "Veg fried Momo",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20fried%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 36,
+    "name": "Paneer fried Momo",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20fried%20momo.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 37,
+    "name": "Corn Cheese fried Momo",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/corn%20cheese%20fried%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 38,
+    "name": "Pizza fried Momo",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/pizza%20fried%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 39,
+    "name": "Egg Bhurji fried Momo",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20bhurji%20fried%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 40,
+    "name": "Chicken fried Momo",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20fried%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 41,
+    "name": "Chicken Cheese fried Momo",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20cheese%20fried%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 42,
+    "name": "Peri Peri Chicken fried Momo",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/peri%20peri%20chicken%20fried%20momo.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED MOMO"
+  },
+  {
+    "id": 43,
+    "name": "Veg Hot & Crispy Momo",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 44,
+    "name": "Paneer Hot & Crispy Momo",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 45,
+    "name": "Corn Cheese Hot & Crispy Momo",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/corn%20cheese%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 46,
+    "name": "Pizza Hot & Crispy Momo",
+    "extras": "",
+    "price": 159,
+    "sizes": [],
+    "image": "http://localhost:8000/img/pizza%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 47,
+    "name": "Egg Bhurji Hot & Crispy Momo",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20bhurji%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 48,
+    "name": "Chicken Hot & Crispy Momo",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20hot%20%26%20crispy%20momo.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 49,
+    "name": "Chicken Cheese Hot & Crispy Momo",
+    "extras": "",
+    "price": 159,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20cheese%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 50,
+    "name": "Peri Peri Chicken Hot & Crispy Momo",
+    "extras": "",
+    "price": 169,
+    "sizes": [],
+    "image": "http://localhost:8000/img/peri%20peri%20chicken%20hot%20%26%20crispy%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "KURKURE MOMO"
+  },
+  {
+    "id": 51,
+    "name": "Veg steam Momo",
+    "extras": "",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20steam%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 52,
+    "name": "Paneer steam Momo",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20steam%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 53,
+    "name": "Corn Cheese steam Momo",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/corn%20cheese%20steam%20momo.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 54,
+    "name": "Pizza steam Momo",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/pizza%20steam%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 55,
+    "name": "Egg Bhurji steam Momo",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20bhurji%20steam%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 56,
+    "name": "Chicken steam Momo",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20steam%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 57,
+    "name": "Chicken Cheese steam Momo",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20cheese%20steam%20momo.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 58,
+    "name": "Peri Peri Chicken steam Momo",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/peri%20peri%20chicken%20steam%20momo.jpeg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "STEAM MOMOS"
+  },
+  {
+    "id": 59,
+    "name": "Veg Grilled Sandwich",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20grilled%20sandwich.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SANDWHICHES"
+  },
+  {
+    "id": 60,
+    "name": "Chicken Grilled Sandwich",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20grilled%20sandwich.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SANDWHICHES"
+  },
+  {
+    "id": 61,
+    "name": "Paneer Tandoori Sandwich",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20tandoori%20sandwich.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SANDWHICHES"
+  },
+  {
+    "id": 62,
+    "name": "Chicken Tandoori Sandwich",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20tandoori%20sandwich.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SANDWHICHES"
+  },
+  {
+    "id": 63,
+    "name": "Classic Veg Burger",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/classic%20veg%20burger.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "BURGERS"
+  },
+  {
+    "id": 64,
+    "name": "Classic Chicken Burger",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/classic%20chicken%20burger.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "BURGERS"
+  },
+  {
+    "id": 65,
+    "name": "Tandoori Paneer Burger",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/tandoori%20paneer%20burger.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "BURGERS"
+  },
+  {
+    "id": 66,
+    "name": "BBQ Chicken Burger",
+    "extras": "(Add Cheese Rs 30)",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/bbq%20chicken%20burger.jpg",
+    "extraOptions": [
+      {
+        "name": "Add Cheese",
+        "price": 30
+      }
+    ],
+    "pizzaSubcategory": "",
+    "category": "BURGERS"
+  },
+  {
+    "id": 67,
+    "name": "Salty Fries",
+    "extras": "",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/salty%20fries.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 68,
+    "name": "Peri Peri Fries",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/peri%20peri%20fries.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 69,
+    "name": "Cream and Onion Fries",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/cream%20and%20onion%20fries.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 70,
+    "name": "Honey Chilli Potato",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/honey%20chilli%20potato.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 71,
+    "name": "Crispy Corn",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/crispy%20corn.jpeg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 72,
+    "name": "Paneer Chilli (7-8 Pcs)",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20chilli%20%287-8%20Pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 73,
+    "name": "Chicken Chilli (7-8 Pcs)",
+    "extras": "",
+    "price": 169,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20chilli%20%287-8%20Pcs%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 74,
+    "name": "Garlic Bread",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/garlic%20bread.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 75,
+    "name": "Cheese Garlic Bread",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/cheese%20garlic%20bread.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "SIDES"
+  },
+  {
+    "id": 76,
+    "name": "Margherita Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 149
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 199
+      }
+    ],
+    "image": "http://localhost:8000/img/margherita%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 77,
+    "name": "Golden Corn Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 159
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 209
+      }
+    ],
+    "image": "http://localhost:8000/img/golden%20corn%20pizza.jpg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 78,
+    "name": "Veg Supreme Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 169
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 209
+      }
+    ],
+    "image": "http://localhost:8000/img/veg%20supreme%20pizza.jpg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 79,
+    "name": "Paneer Makhni Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 169
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 229
+      }
+    ],
+    "image": "http://localhost:8000/img/paneer%20makhni%20pizza.jpeg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 80,
+    "name": "Tandoori Paneer Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 169
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 249
+      }
+    ],
+    "image": "http://localhost:8000/img/tandoori%20paneer%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 81,
+    "name": "Farm House Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 179
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 259
+      }
+    ],
+    "image": "http://localhost:8000/img/farm%20house%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 82,
+    "name": "Mushroom Delight",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 189
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 279
+      }
+    ],
+    "image": "http://localhost:8000/img/mushroom%20delight.jpeg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 83,
+    "name": "Chilli Mushroom",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 189
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 279
+      }
+    ],
+    "image": "http://localhost:8000/img/chilli%20mushroom.jpeg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "VEG",
+    "category": "PIZZA"
+  },
+  {
+    "id": 84,
+    "name": "Chicken Classico Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 159
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 209
+      }
+    ],
+    "image": "http://localhost:8000/img/chicken%20classico%20pizza.jpg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 85,
+    "name": "Butter Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 179
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 239
+      }
+    ],
+    "image": "http://localhost:8000/img/butter%20chicken%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 86,
+    "name": "Pepper Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 189
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 249
+      }
+    ],
+    "image": "http://localhost:8000/img/pepper%20chicken%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 87,
+    "name": "Kadhai Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 189
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 249
+      }
+    ],
+    "image": "http://localhost:8000/img/kadhai%20chicken%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 88,
+    "name": "Farmhouse Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 199
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 269
+      }
+    ],
+    "image": "http://localhost:8000/img/farmhouse%20chicken%20pizza.webp",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 89,
+    "name": "Chilli Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 209
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 289
+      }
+    ],
+    "image": "http://localhost:8000/img/chilli%20chicken%20pizza.jpg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 90,
+    "name": "Tripple Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 219
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 299
+      }
+    ],
+    "image": "http://localhost:8000/img/tripple%20chicken%20pizza.jpeg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 91,
+    "name": "BBQ Chicken Pizza",
+    "extras": "ADD Cheese Burst Crust (Regular - Rs. 40, Medium - Rs. 60)",
+    "price": null,
+    "sizes": [
+      {
+        "size": "Regular (7\")",
+        "price": 229
+      },
+      {
+        "size": "Medium (10\")",
+        "price": 329
+      }
+    ],
+    "image": "http://localhost:8000/img/bbq%20chicken%20pizza.jpg",
+    "extraOptions": [
+      {
+        "name": "Cheese Burst (Regular)",
+        "price": 40
+      },
+      {
+        "name": "Cheese Burst (Medium)",
+        "price": 60
+      }
+    ],
+    "pizzaSubcategory": "CHICKEN",
+    "category": "PIZZA"
+  },
+  {
+    "id": 92,
+    "name": "Veg Noodles",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20noodles.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "NOODLES"
+  },
+  {
+    "id": 93,
+    "name": "Veg Schezwan Noodles",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20schezwan%20noodles.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "NOODLES"
+  },
+  {
+    "id": 94,
+    "name": "Egg Noodles",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20noodles.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "NOODLES"
+  },
+  {
+    "id": 95,
+    "name": "Egg Schezwan Noodles",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20schezwan%20noodles.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "NOODLES"
+  },
+  {
+    "id": 96,
+    "name": "Chicken Noodles",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20noodles.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "NOODLES"
+  },
+  {
+    "id": 97,
+    "name": "Chicken Schezwan Noodles",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20schezwan%20noodles.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "NOODLES"
+  },
+  {
+    "id": 98,
+    "name": "Veg Fried Rice",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20fried%20rice.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 99,
+    "name": "Veg Schezwan Fried Rice",
+    "extras": "",
+    "price": 169,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20schezwan%20fried%20rice.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 100,
+    "name": "Veg Burnt Garlic Fried Rice",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20burnt%20garlic%20fried%20rice.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 101,
+    "name": "Egg Fried Rice",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/egg%20fried%20rice.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 102,
+    "name": "Paneer Fried Rice",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/paneer%20fried%20rice.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 103,
+    "name": "Chicken Fried Rice",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20fried%20rice.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 104,
+    "name": "Burnt Garlic Chicken Fried Rice",
+    "extras": "",
+    "price": 179,
+    "sizes": [],
+    "image": "http://localhost:8000/img/burnt%20garlic%20chicken%20fried%20rice.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 105,
+    "name": "Schezwan Chicken Fried Rice",
+    "extras": "",
+    "price": 189,
+    "sizes": [],
+    "image": "http://localhost:8000/img/schezwan%20chicken%20fried%20rice.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "FRIED RICE"
+  },
+  {
+    "id": 106,
+    "name": "Kadai Paneer Rice Bowl",
+    "extras": "",
+    "price": 139,
+    "sizes": [],
+    "image": "http://localhost:8000/img/kadai%20paneer%20rice%20bowl.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "RICE BOWL"
+  },
+  {
+    "id": 107,
+    "name": "Butter Paneer Rice Bowl",
+    "extras": "",
+    "price": 149,
+    "sizes": [],
+    "image": "http://localhost:8000/img/butter%20paneer%20rice%20bowl.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "RICE BOWL"
+  },
+  {
+    "id": 108,
+    "name": "Chilli Paneer Rice Bowl",
+    "extras": "",
+    "price": 159,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chilli%20paneer%20rice%20bowl.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "RICE BOWL"
+  },
+  {
+    "id": 109,
+    "name": "Kadai Chicken Rice Bowl",
+    "extras": "",
+    "price": 159,
+    "sizes": [],
+    "image": "http://localhost:8000/img/kadai%20chicken%20rice%20bowl.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "RICE BOWL"
+  },
+  {
+    "id": 110,
+    "name": "Butter Chicken Rice Bowl",
+    "extras": "",
+    "price": 169,
+    "sizes": [],
+    "image": "http://localhost:8000/img/butter%20chicken%20rice%20bowl.jpeg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "RICE BOWL"
+  },
+  {
+    "id": 111,
+    "name": "Chilli Chicken Rice Bowl",
+    "extras": "",
+    "price": 179,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chilli%20chicken%20rice%20bowl.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "RICE BOWL"
+  },
+  {
+    "id": 112,
+    "name": "Veg Arrabbiata (Red) Pasta",
+    "extras": "",
+    "price": 199,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20arrabbiata%20%28Red%29%20pasta.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 113,
+    "name": "Veg Alfredo (White) Pasta",
+    "extras": "",
+    "price": 209,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20alfredo%20%28White%29%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 114,
+    "name": "Veg Pink Penne Pasta",
+    "extras": "",
+    "price": 219,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20pink%20penne%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 115,
+    "name": "Veg Riso Oliva Pasta Pasta",
+    "extras": "",
+    "price": 229,
+    "sizes": [],
+    "image": "http://localhost:8000/img/veg%20riso%20oliva%20pasta%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 116,
+    "name": "Chicken Arrabbiata (Red) Pasta",
+    "extras": "",
+    "price": 219,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20arrabbiata%20%28Red%29%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 117,
+    "name": "Chicken Alfredo (White) Pasta",
+    "extras": "",
+    "price": 229,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20alfredo%20%28White%29%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 118,
+    "name": "Chicken Pink Penne Pasta",
+    "extras": "",
+    "price": 239,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20pink%20penne%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 119,
+    "name": "Chicken Riso Oliva Pasta Pasta",
+    "extras": "",
+    "price": 249,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chicken%20riso%20oliva%20pasta%20pasta.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "PASTA"
+  },
+  {
+    "id": 120,
+    "name": "Noodle Combo (Veg)",
+    "extras": "Veg Noodles + Popcorn Bites (Veg) + Cold Drink",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/noodle%20combo%20%28Veg%29.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 121,
+    "name": "Noodle Combo (Non-Veg)",
+    "extras": "Chicken Noodles + Popcorn Bites(Non- Veg) + Cold Drink",
+    "price": 139,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Noodle+Combo+(Non-Veg),food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 122,
+    "name": "Burger Combo (Veg)",
+    "extras": "Classic Veg Burger + Salty Fries+Cold Drink(250ml)",
+    "price": 99,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Burger+Combo+(Veg),food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 123,
+    "name": "Burger Combo (Non-Veg)",
+    "extras": "Classic Chicken Burger + Salty Fries+Cold Drink(250ml)",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/burger%20combo%20%28Non-Veg%29.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 124,
+    "name": "Fried Rice Combo (Veg)",
+    "extras": "Veg Fried Rice + Mojito(Watermelon/Mango)",
+    "price": 189,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Fried+Rice+Combo+(Veg),food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 125,
+    "name": "Fried Rice Combo (Non-Veg)",
+    "extras": "Chicken Fried Rice + Mojito(Watermelon/Mango)",
+    "price": 209,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Fried+Rice+Combo+(Non-Veg),food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 126,
+    "name": "Chilli Chicken Rice Bowl Combo",
+    "extras": "Chilli Chicken Rice Bowl + Mojito(Watermelon/Mango)",
+    "price": 219,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Chilli+Chicken+Rice+Bowl+Combo,food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 127,
+    "name": "Kadhai Paneer Rice Bowl Combo",
+    "extras": "Kadhai Paneer Rice Bowl + Mojito(Watermelon/Mango)",
+    "price": 219,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Kadhai+Paneer+Rice+Bowl+Combo,food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 128,
+    "name": "Pasta Combo (Veg)",
+    "extras": "Veg Alfredo (White) Pasta +Vanila Milk Shake",
+    "price": 209,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Pasta+Combo+(Veg),food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 129,
+    "name": "Pasta Combo (Non-Veg)",
+    "extras": "Chicken Alfredo (White) Pasta + Vanila Milk Shake",
+    "price": 229,
+    "sizes": [],
+    "image": "https://source.unsplash.com/400x300/?Pasta+Combo+(Non-Veg),food",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "COMBOS"
+  },
+  {
+    "id": 130,
+    "name": "Cold Coffee",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/cold%20coffee.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 131,
+    "name": "Vanilla Milkshake",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/vanilla%20milkshake.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 132,
+    "name": "Butterscotch Milkshake",
+    "extras": "",
+    "price": 89,
+    "sizes": [],
+    "image": "http://localhost:8000/img/butterscotch%20milkshake.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 133,
+    "name": "Strawberry Milkshake",
+    "extras": "",
+    "price": 99,
+    "sizes": [],
+    "image": "http://localhost:8000/img/strawberry%20milkshake.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 134,
+    "name": "Chocolate Milkshake",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/chocolate%20milkshake.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 135,
+    "name": "Mango Milkshake",
+    "extras": "",
+    "price": 109,
+    "sizes": [],
+    "image": "http://localhost:8000/img/mango%20milkshake.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 136,
+    "name": "Oreo Milkshake",
+    "extras": "",
+    "price": 119,
+    "sizes": [],
+    "image": "http://localhost:8000/img/oreo%20milkshake.webp",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 137,
+    "name": "KitKat Milkshake",
+    "extras": "",
+    "price": 129,
+    "sizes": [],
+    "image": "http://localhost:8000/img/kitkat%20milkshake.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MILK SHAKES"
+  },
+  {
+    "id": 138,
+    "name": "Lemonade",
+    "extras": "",
+    "price": 49,
+    "sizes": [],
+    "image": "http://localhost:8000/img/lemonade.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MOJITOS"
+  },
+  {
+    "id": 139,
+    "name": "Mango Mint Mojito",
+    "extras": "",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/mango%20mint%20mojito.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MOJITOS"
+  },
+  {
+    "id": 140,
+    "name": "Watermelon Mojito",
+    "extras": "",
+    "price": 69,
+    "sizes": [],
+    "image": "http://localhost:8000/img/watermelon%20mojito.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MOJITOS"
+  },
+  {
+    "id": 141,
+    "name": "Virgin Mojito",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/virgin%20mojito.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MOJITOS"
+  },
+  {
+    "id": 142,
+    "name": "Green Apple Mojito",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/green%20apple%20mojito.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MOJITOS"
+  },
+  {
+    "id": 143,
+    "name": "Cucumber Mojito",
+    "extras": "",
+    "price": 79,
+    "sizes": [],
+    "image": "http://localhost:8000/img/cucumber%20mojito.jpg",
+    "extraOptions": [],
+    "pizzaSubcategory": "",
+    "category": "MOJITOS"
+  }
+]
