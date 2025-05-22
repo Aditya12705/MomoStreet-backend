@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException, Request, UploadFile, File
+from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
@@ -559,5 +560,4 @@ def export_menu():
 
 @app.get("/")
 def health_check():
-    return {"status": "OK"}
-
+    return JSONResponse(content={"status": "OK"}, status_code=200)
