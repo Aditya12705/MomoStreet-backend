@@ -556,3 +556,8 @@ def export_menu():
     menu = load_menu()
     flat = flatten_menu(menu)
     return flat
+
+@app.get("/")
+def health_check():
+    return {"status": "OK"}
+
